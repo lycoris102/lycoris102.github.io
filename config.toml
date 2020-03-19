@@ -1,0 +1,46 @@
+title = "Toto Aoki"
+theme = "pulp"
+baseURL = "https://lycoris102.github.io/"
+canonifyurls = true
+hasCJKLanguage = true
+publishDir = "docs"
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# googleAnalytics = "{your tracking code}"
+
+[params]
+    author = "Toto Aoki"
+    avatar = "avatar.png"
+    favicon = "favicon.ico"
+    description = "Game Creator / Event Organizer"
+    publicationYear = "2020"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+# Make sure setting a following option for search bar to work
+[outputs]
+    section = ["JSON", "HTML"]
+    taxonomy = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "about"
+    name = "About" #If display text link, cancel comment out
+    pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+    url = "/about"
+    weight = 10
+
+[[menu.main]]
+    identifier = "game"
+    name = "Game" #If display text link, cancel comment out
+    pre = "<i class='fa fa-gamepad fa-lg'></i>" #Choose your favorite font from Font Awesome
+    url = "/game"
+    weight = 20
+
+[[menu.main]]
+    identifier = "email"
+    name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:lycoris102@gmail.com"
+    weight = 30
