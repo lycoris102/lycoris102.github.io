@@ -80,7 +80,7 @@ Unity1週間ゲームジャム「フロー」参加作品
 ![comet_fireworks](/img/comet_fireworks.png)  
 花火で隕石を破壊する防衛型のゲームです
 
-Unity1週間ゲームジャム「フロー」参加作品  
+Unity1週間ゲームジャム「夏」参加作品  
 🎮 [WebGL(PCブラウザ)](https://unityroom.com/games/comet_fireworks)
 
 📝 関連  
