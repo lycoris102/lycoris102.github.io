@@ -14,8 +14,10 @@ draft: false
 * [Blog](http://lycoris102.hatenablog.com/)
 * [Qiita](https://qiita.com/lycoris102)
 * [GitHub](https://github.com/lycoris102)
+* [note](https://note.com/lycoris102)
 * [SoundCloud](https://soundcloud.com/lycoris102)
 * [unityroom](https://unityroom.com/users/lycoris102)
+* [ボドゲーマ](https://bodoge.hoobby.net/friends/3875/boardgames/have)
 
 # Work
 **2013~2017: [株式会社モバイルファクトリー](https://www.mobilefactory.jp/)**
@@ -48,7 +50,7 @@ Unityエンジニアとして無料知育アプリ[ごっこランド](https://a
 
 # Certification/Award
 * 2018~: [Unityアンバサダー](https://blogs.unity3d.com/jp/2018/12/18/ambassador-ja/)
-* 2017~1019: Unity Certified Developer
+* 2017~2019: Unity Certified Developer
 * 2016: [LudumDare#35 Compo Audio #2](http://ludumdare.com/compo/ludum-dare-35/?more=1)
 * 2016: [SPAJAM2016東京A予選 優秀賞](https://spajam.jp/2016/entry/tokyo-a/)
 * 2015: [バンダイナムコ カタログIPオープン化プロジェクトGameJam Unity賞](https://www.famitsu.com/news/201511/30094228.html)
