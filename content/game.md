@@ -4,6 +4,13 @@ date: 2020-03-19T17:04:23+09:00
 draft: false
 ---
 
+# Sweet^2 Honey Hive
+![sweet_honey_hive](/img/sweet_honey_hive.png)  
+領土を広げるつつ蜂蜜を集める拡大再生産型の1人用ボードゲームです  
+
+Unity1週間ゲームジャム「密」参加作品  
+🎮 [WebGL(PCブラウザ)](https://unityroom.com/games/sweet_honey_hive)
+
 # △atled
 ![atled](/img/atled.png)  
 逆サイドからもノーツが来る音ゲーです  
