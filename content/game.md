@@ -9,6 +9,7 @@ draft: false
 領土を広げつつ蜂蜜を集める拡大再生産型の1人用ボードゲームです  
 
 Unity1週間ゲームジャム「密」参加作品  
+[room6GameJam2020](https://www.room6.net/room6gamejam2020result) room6賞 受賞  
 🎮 [WebGL(PCブラウザ)](https://unityroom.com/games/sweet_honey_hive)
 
 # △atled
