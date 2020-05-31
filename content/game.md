@@ -4,6 +4,13 @@ date: 2020-03-19T17:04:23+09:00
 draft: false
 ---
 
+# おれの岩手
+![my_iwate](/img/my_iwate.png)  
+あなたの想像している岩手を教えてください  
+
+[Iwate x Yokohama.Unity ～地方をテーマに1Dayオンラインゲームジャム～](https://iwateunity.connpass.com/event/175448/) 参加作品  
+🎮 [WebGL(PCブラウザ)](https://unityroom.com/games/my_iwate)
+
 # Sweet^2 Honey Hive
 ![sweet_honey_hive](/img/sweet_honey_hive.png)  
 領土を広げつつ蜂蜜を集める拡大再生産型の1人用ボードゲームです  
