@@ -4,6 +4,17 @@ date: 2020-03-19T17:04:23+09:00
 draft: false
 ---
 
+# もじもじフラグメンツ
+![word_fragments](/img/word_fragments.png)  
+超ハイコンテキストなオンラインクイズゲームです  
+
+Unity1週間ゲームジャム「ふえる」参加作品  
+🎮 [WebGL(PCブラウザ)](https://unityroom.com/games/word_fragments)  
+
+📝 関連  
+[WordFragments by lycoris102 | Free Listening on SoundCloud](https://soundcloud.com/lycoris102/wordfragments)  
+[Unity1週間ゲームジャムに参加して「もじもじフラグメンツ」という超ハイコンテキストオンライン協力クイズゲームを作った話｜青木とと(ˊᗜˋ*)｜note](https://note.com/lycoris102/n/n572795a40d50)
+
 # おれの岩手
 ![my_iwate](/img/my_iwate.png)  
 あなたの想像している岩手を教えてください  

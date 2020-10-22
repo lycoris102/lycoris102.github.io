@@ -29,6 +29,11 @@ draft: false
 Unityエンジニアとして無料知育アプリ[ごっこランド](https://app.kidsstar.co.jp/code0007)のコンテンツ開発に携わる  
 社内勉強会やLT大会の実施、会議/ふりかえりのファシリテーターとしての活動を行う
 
+**2020~ : [ユニティ・テクロノジーズ・ジャパン株式会社](https://unity.com/ja)**
+
+イベントプランナーとして活動中  
+各種イベントやライブ配信のサポート、動画コンテンツ制作などを行う
+
 # Event
 📝 勉強会/イベントの企画・運営・サポートを行なっています  
 
@@ -37,6 +42,7 @@ Unityエンジニアとして無料知育アプリ[ごっこランド](https://a
 * [Unity Designer's Cafe](https://unity-designers-cafe.connpass.com/)  
 * [Unite Tokyo 2019 Eve2 LT Fes](https://connpass.com/event/139403/)  
 * [コドモミートアップ](https://kodomo-meetup.connpass.com/) (サポート)
+* [unity1week online共有会](https://www.youtube.com/playlist?list=PLeq7LK9EBomzKdKCQp35mQl2XR-nZSK2e)
 
 # Talk
 📝 たまに勉強会やイベントで登壇します
